@@ -15,6 +15,8 @@ benchmarks/results/local-*
 __pycache__/
 *.pyc
 
+releases
+
 # The public appliance carries the buildable serving/runtime core, not the
 # upstream project's CI, mobile, research-benchmark, or agent scratch trees.
 runtime/.devops/
